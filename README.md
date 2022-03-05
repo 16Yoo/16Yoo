@@ -2,4 +2,8 @@
 - 👀 I’m interested in Make Game with Unity, Android App With Flutter
 - 🌱 I’m currently learning Flutter
 
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://www.instagram.com/yws0409@gmail.com/">
+    <img 
+        src="http://img.shields.io/badge/-쓰고싶은텍스트-배경색(ex.222222)?style=flat&logo=아이콘명(ex.Instagram)&link=https://www.instagram.com/본인인스타아이디/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
