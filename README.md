@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter
 
 <a href="https://www.instagram.com/yws0409@gmail.com/">
-    <img src="http://img.shields.io/badge/-E34F26?style=flat&logo=Instagram&link=https://www.instagram.com/yws0409@gmail.com/"
+    <img 
+         src="http://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Instagram&link=https://www.instagram.com/yws0409@gmail.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
