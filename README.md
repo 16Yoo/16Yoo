@@ -9,5 +9,5 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
- <img src="https://img.shields.io/badge/C#-00599C?style=flat-square&logo=C#&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C#-00599C?style=flat-square&logo=C%2B52B&logoColor=white"/>
 
